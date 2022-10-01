@@ -14,3 +14,7 @@ Clone this repo:
 Navigate to the script-directory:
 
 `cd inkscape-appimage`
+
+Make the script executable:
+
+`chmod +x `

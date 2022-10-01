@@ -9,4 +9,4 @@ Install GIT:
 
 Clone this repo:
 
-`git clone 
+`git clone https://github.com/ramirezfx/inkscape-appimage.git`

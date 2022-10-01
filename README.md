@@ -19,4 +19,8 @@ Make the script executable:
 
 `chmod +x get-latest-inkscape.sh`
 
+Run the script:
+
+`./`
+
 The file will be downloaded to the same directory and the name will be Inkscape-x.x.x.AppImage (x.x.x is the actual downloaded version of Inkscape)

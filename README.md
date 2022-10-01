@@ -21,6 +21,6 @@ Make the script executable:
 
 Run the script:
 
-`./`
+`./get-latest-inkscape.sh`
 
 The file will be downloaded to the same directory and the name will be Inkscape-x.x.x.AppImage (x.x.x is the actual downloaded version of Inkscape)

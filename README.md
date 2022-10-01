@@ -1,5 +1,5 @@
 # inkscape-appimage
-This script will download the latest version of Inkscape and build an AppImage
+This script will download the latest Inkscape AppImage
 
 ## INSTALLATION:
 
@@ -17,4 +17,4 @@ Navigate to the script-directory:
 
 Make the script executable:
 
-`chmod +x `
+`chmod +x get-latest-inkscape.sh`
